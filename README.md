@@ -1,0 +1,2 @@
+# bmcip
+test manage
