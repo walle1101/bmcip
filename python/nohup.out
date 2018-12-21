@@ -1,0 +1,247 @@
+Error: Unable to establish IPMI v2 / RMCP+ session
+Error: Unable to establish IPMI v2 / RMCP+ session
+Error: Unable to establish IPMI v2 / RMCP+ session
+Unable to send RAW command (channel=0x0 netfn=0xe lun=0x0 cmd=0x53 rsp=0xc1): Invalid command
+Error: Unable to establish IPMI v2 / RMCP+ session
+Unable to send RAW command (channel=0x0 netfn=0xe lun=0x0 cmd=0x53 rsp=0xc1): Invalid command
+ Unknown FRU header version 0x00
+ Unknown FRU header version 0x00
+ Unknown FRU header version 0x00
+Unable to send RAW command (channel=0x0 netfn=0xe lun=0x0 cmd=0x53 rsp=0xc1): Invalid command
+Unable to send RAW command (channel=0x0 netfn=0xe lun=0x0 cmd=0x53 rsp=0xc1): Invalid command
+Error: Unable to establish IPMI v2 / RMCP+ session
+Error: Unable to establish IPMI v2 / RMCP+ session
+Unable to send RAW command (channel=0x0 netfn=0xe lun=0x0 cmd=0x53 rsp=0xc1): Invalid command
+Error: Unable to establish IPMI v2 / RMCP+ session
+Error: Unable to establish IPMI v2 / RMCP+ session
+Error: Unable to establish IPMI v2 / RMCP+ session
+Error: Unable to establish IPMI v2 / RMCP+ session
+Unable to send RAW command (channel=0x0 netfn=0xe lun=0x0 cmd=0x53 rsp=0xc1): Invalid command
+Error: Unable to establish IPMI v2 / RMCP+ session
+Unable to send RAW command (channel=0x0 netfn=0xe lun=0x0 cmd=0x53 rsp=0xc1): Invalid command
+Error: Unable to establish IPMI v2 / RMCP+ session
+Error: Unable to establish IPMI v2 / RMCP+ session
+Error: Unable to establish IPMI v2 / RMCP+ session
+Error: Unable to establish IPMI v2 / RMCP+ session
+Error: Unable to establish IPMI v2 / RMCP+ session
+Error: Unable to establish IPMI v2 / RMCP+ session
+Error: Unable to establish IPMI v2 / RMCP+ session
+Error: Unable to establish IPMI v2 / RMCP+ session
+Unable to send RAW command (channel=0x0 netfn=0xe lun=0x0 cmd=0x53 rsp=0xc1): Invalid command
+Error: Unable to establish IPMI v2 / RMCP+ session
+ Unknown FRU header version 0x00
+ Unknown FRU header version 0x00
+ Unknown FRU header version 0x00
+Unable to send RAW command (channel=0x0 netfn=0xe lun=0x0 cmd=0x53 rsp=0xc1): Invalid command
+['192.168.0.1 ', '<a href=http://192.168.0.1 target=_blank>192.168.0.1</a>', 'T1DM4.6', '1.07.00', '0000000000000000000000000', '0000000000000000', '18:9b:a5:80:01:fe', '0000000000000000000000000']
+['192.168.0.6 ', '<a href=http://192.168.0.6 target=_blank>192.168.0.6</a>', 'T1QM.1.8', '1.06.02', 'T1QM-E2', 'THTF', '18:9b:a5:80:33:ff', '0000000000000000000000000']
+['192.168.0.13 ', '<a href=http://192.168.0.13 target=_blank>192.168.0.13</a>', 'TTY0.2', '1.01.00', 'T1DMG', 'TTYinfo', '18:9b:a5:80:6f:6b', '00000000000000000000']
+['192.168.0.19 ', '<a href=http://192.168.0.19 target=_blank>192.168.0.19</a>', 'T1DM4.6', '1.03.02', 'G2DL-B', 'Gooxi', '18:9b:a5:80:0c:33', '123456']
+['192.168.0.30 ', '<a href=http://192.168.0.30 target=_blank>192.168.0.30</a>', 'T1DM4.6', '1.07.00', '0000000000000000000000000', '0000000000000000', '18:9b:a5:80:1a:7b', '05675']
+['192.168.0.32 ', '<a href=http://192.168.0.32 target=_blank>192.168.0.32</a>', 'T1DM4.4', '1.06.06', 'T1DM-E2', 'THTF', '18:9b:a5:80:2f:ce', 'N/a']
+['192.168.0.33 ', '<a href=http://192.168.0.33 target=_blank>192.168.0.33</a>', 'FFT1QM.1.8', '1.06.01', 'T1QM-E2', 'THTF', '18:9b:a5:80:33:1a', '0000000000000000000000000']
+['192.168.0.35 ', '<a href=http://192.168.0.35 target=_blank>192.168.0.35</a>', 'T1DM4.4', '1.06.06', 'T1DM-E2', 'THTF', '18:9b:a5:80:2f:ce', 'N/a']
+['192.168.0.48 ', '<a href=http://192.168.0.48 target=_blank>192.168.0.48</a>', 'TTY0.2', '1.01.00', 'T1DMG', 'TTYinfo', '18:9b:a5:80:6f:71', 'Linux_DD_YES']
+['192.168.0.60 ', '<a href=http://192.168.0.60 target=_blank>192.168.0.60</a>', 'T1DM4.4', '1.06.06', 'T1DM-E2', 'THTF', '18:9b:a5:80:30:46', '0000000000000000000000000']
+['192.168.0.63 ', '<a href=http://192.168.0.63 target=_blank>192.168.0.63</a>', 'T1DM4.6', '1.03.02', 'T1DM-E2', 'THTF', '18:9b:a5:80:18:f7', '0000000000000000000000000']
+['192.168.0.76 ', '<a href=http://192.168.0.76 target=_blank>192.168.0.76</a>', 'T1DM4.6', '1.07.00', '0000000000000000000000000', '0000000000000000', '18:9b:a5:80:01:fe', '0000000000000000000000000']
+['192.168.0.83 ', '<a href=http://192.168.0.83 target=_blank>192.168.0.83</a>', 'N/a', '4.02.00', 'YZMB-00882-102', 'Inspur', '6c:92:bf:8c:6d:e3', '218277618']
+['192.168.0.89 ', '<a href=http://192.168.0.89 target=_blank>192.168.0.89</a>', 'TTY0.2', '1.01.00', 'T1DMG', 'TTYinfo', '18:9b:a5:80:6f:6a', '1111111111111111']
+['192.168.0.98 ', '<a href=http://192.168.0.98 target=_blank>192.168.0.98</a>', 'T1DM4.6', '1.03.01', 'T1DM-E2', 'THTF', '18:9b:a5:80:20:31', '0000000000000000000000000']
+['192.168.0.104 ', '<a href=http://192.168.0.104 target=_blank>192.168.0.104</a>', 'TTY0.2', '1.07.02', 'G2DCN-B', 'Gooxi', '00:24:ec:f1:3f:56', 'liuxiong-node3']
+['192.168.0.106 ', '<a href=http://192.168.0.106 target=_blank>192.168.0.106</a>', 'N/a', '1.03.00', 'T1SMSW-E2', 'THTF', '18:9b:a5:80:6d:87', '0000000000000000000000000']
+['192.168.0.107 ', '<a href=http://192.168.0.107 target=_blank>192.168.0.107</a>', 'T1QM.1.8', '1.06.01', 'T1QM-E2', 'THTF', '18:9b:a5:80:36:9a', '4SS']
+['192.168.0.115 ', '<a href=http://192.168.0.115 target=_blank>192.168.0.115</a>', 'T1QM.1.8', '1.06.02', 'T1QM-E2', 'THTF', '18:9b:a5:80:33:ff', '0000000000000000000000000']
+['192.168.0.116 ', '<a href=http://192.168.0.116 target=_blank>192.168.0.116</a>', 'N/a', '2.04.3b', 'N/a', 'N/a', '1e:23:45:3d:67:4c', 'N/a']
+['192.168.0.120 ', '<a href=http://192.168.0.120 target=_blank>192.168.0.120</a>', 'T1DM4.6', '1.07.00', 'G2DL-B', 'Gooxi', '18:9b:a5:80:33:0b', '0000000000000000000000000']
+['192.168.0.121 ', '<a href=http://192.168.0.121 target=_blank>192.168.0.121</a>', 'T1DM4.6', '1.03.01', 'T1DM-E2', 'THTF', '18:9b:a5:80:1a:77', 'N/a']
+['192.168.0.126 ', '<a href=http://192.168.0.126 target=_blank>192.168.0.126</a>', 'TTY0.3', '1.01.00', 'T1DMG', 'TTYinfo', '00:24:ec:00:44:fd', '00000000000000000000']
+['192.168.0.131 ', '<a href=http://192.168.0.131 target=_blank>192.168.0.131</a>', 'T1DM4.6', '1.07.00', '0000000000000000000000000', '0000000000000000', '18:9b:a5:80:1a:8f', '0000000000000000000000000']
+['192.168.0.132 ', '<a href=http://192.168.0.132 target=_blank>192.168.0.132</a>', 'N/a', '4.02.00', 'YZMB-00882-102', 'Inspur', '6c:92:bf:8c:6d:e3', '218277618']
+['192.168.0.135 ', '<a href=http://192.168.0.135 target=_blank>192.168.0.135</a>', 'T1DM5.0', '1.06.05', 'T1DM-E2', 'THTF', '18:9b:a5:80:02:06', '0000000000000000000000000']
+['192.168.0.140 ', '<a href=http://192.168.0.140 target=_blank>192.168.0.140</a>', 'TTY0.2', '1.02.00', '00000000000000000000', '00000000000000000000', '18:9b:a5:80:6f:6c', '00000000000000000000']
+['192.168.0.156 ', '<a href=http://192.168.0.156 target=_blank>192.168.0.156</a>', 'T1DM4.6', '1.07.00', 'G2DL-B', 'Gooxi', '18:9b:a5:80:33:0b', '0000000000000000000000000']
+['192.168.0.161 ', '<a href=http://192.168.0.161 target=_blank>192.168.0.161</a>', 'TTY0.2', '1.01.00', 'T1DMG', 'TTYinfo', '18:9b:a5:80:6f:6f', 'poweronoff']
+['192.168.0.163 ', '<a href=http://192.168.0.163 target=_blank>192.168.0.163</a>', 'TTY0.2', '1.01.00', 'T1DMG', 'TTYinfo', '18:9b:a5:80:6f:6d', 'Linux_reboot']
+['192.168.0.172 ', '<a href=http://192.168.0.172 target=_blank>192.168.0.172</a>', 'TTY4.6', '1.03.01', 'T1DM-E2', 'THTF', '18:9b:a5:80:02:08', 'N/a']
+['192.168.0.180 ', '<a href=http://192.168.0.180 target=_blank>192.168.0.180</a>', 'T1DM4.6', '1.07.00', '0000000000000000000000000', '0000000000000000', '18:9b:a5:80:02:02', '0000000000000000000000000']
+['192.168.0.187 ', '<a href=http://192.168.0.187 target=_blank>192.168.0.187</a>', 'T1DM4.6', '1.07.00', '0000000000000000000000000', '0000000000000000', '18:9b:a5:80:02:02', '0000000000000000000000000']
+['192.168.0.190 ', '<a href=http://192.168.0.190 target=_blank>192.168.0.190</a>', 'T1DM4.6', '1.07.00', '0000000000000000000000000', '0000000000000000', '18:9b:a5:80:1a:8f', '0000000000000000000000000']
+['192.168.0.194 ', '<a href=http://192.168.0.194 target=_blank>192.168.0.194</a>', 'T1DM4.6', '1.07.00', '0000000000000000000000000', '0000000000000000', '18:9b:a5:80:01:44', '0000000000000000000000000']
+['192.168.0.198 ', '<a href=http://192.168.0.198 target=_blank>192.168.0.198</a>', 'TTY0.2', '1.01.00', 'T1DMG', 'TTYinfo', '18:9b:a5:80:6f:70', '00000000000000000000']
+['192.168.0.210 ', '<a href=http://192.168.0.210 target=_blank>192.168.0.210</a>', 'T1DM4.6', '1.03.02', 'T1DM-E2', 'THTF', '18:9b:a5:80:1a:8b', '123456']
+['192.168.0.213 ', '<a href=http://192.168.0.213 target=_blank>192.168.0.213</a>', 'T1DM4.6', '1.03.02', 'T1DM-E2', 'THTF', '18:9b:a5:80:1a:7f', '123456789']
+['192.168.0.225 ', '<a href=http://192.168.0.225 target=_blank>192.168.0.225</a>', 'T1DM4.6', '1.07.00', '0000000000000000000000000', '0000000000000000', '18:9b:a5:80:33:8c', '0000000000000000000000000']
+['192.168.0.227 ', '<a href=http://192.168.0.227 target=_blank>192.168.0.227</a>', 'N/a', '1.03.00', 'T1SMSW-E2', 'THTF', '18:9b:a5:80:6d:7f', '0000000000000000000000000']
+['192.168.0.236 ', '<a href=http://192.168.0.236 target=_blank>192.168.0.236</a>', 'T1DM4.4', '1.06.06', 'T1DM-E2', 'THTF', '18:9b:a5:80:33:03', 'data']
+['192.168.0.239 ', '<a href=http://192.168.0.239 target=_blank>192.168.0.239</a>', 'T1DM4.4', '1.06.06', 'T1DM-E2', 'THTF', '18:9b:a5:80:33:03', 'data']
+['192.168.0.241 ', '<a href=http://192.168.0.241 target=_blank>192.168.0.241</a>', 'T1DM4.6', '1.03.01', 'T1DM-E2', 'THTF', '18:9b:a5:80:02:1b', 'N/a']
+['192.168.0.242 ', '<a href=http://192.168.0.242 target=_blank>192.168.0.242</a>', 'T1DM4.6', '1.03.01', 'T1DM-E2', 'THTF', '18:9b:a5:80:02:1b', 'N/a']
+['192.168.1.9 ', '<a href=http://192.168.1.9 target=_blank>192.168.1.9</a>', 'N/a', '1.06.03', 'N/a', 'N/a', '00:24:ec:f0:04:24', 'N/a']
+['192.168.1.15 ', '<a href=http://192.168.1.15 target=_blank>192.168.1.15</a>', 'N/a', '1.06.09', 'N/a', 'N/a', '00:24:ec:f0:01:20', 'N/a']
+['192.168.1.161 ', '<a href=http://192.168.1.161 target=_blank>192.168.1.161</a>', 'N/a', '1.02.00', 'G3SCN', 'GooXi', '00:24:ec:f1:19:43', 'N/a']
+['192.168.1.184 ', '<a href=http://192.168.1.184 target=_blank>192.168.1.184</a>', 'N/a', '11.08.c0', 'AMI SPX', 'N/a', '18:9b:a5:80:06:52', 'N/a']
+['192.168.1.205 ', '<a href=http://192.168.1.205 target=_blank>192.168.1.205</a>', 'T1DM5.0', '1.06.05', 'T1DM-E2', 'THTF', '18:9b:a5:80:02:06', '0000000000000000000000000']Error: Unable to establish IPMI v2 / RMCP+ session
+Unable to send RAW command (channel=0x0 netfn=0xe lun=0x0 cmd=0x53 rsp=0xc1): Invalid command
+Unable to send RAW command (channel=0x0 netfn=0xe lun=0x0 cmd=0x53 rsp=0xc1): Invalid command
+Error: Unable to establish IPMI v2 / RMCP+ session
+
+['192.168.2.14 ', '<a href=http://192.168.2.14 target=_blank>192.168.2.14</a>', 'T1DM4.6', '1.07.00', '0000000000000000000000000', '0000000000000000', '18:9b:a5:80:33:8c', '0000000000000000000000000']
+['192.168.2.16 ', '<a href=http://192.168.2.16 target=_blank>192.168.2.16</a>', 'T1DM4.6', '1.07.00', '0000000000000000000000000', '0000000000000000', '18:9b:a5:80:1a:7b', '05675']
+['192.168.2.20 ', '<a href=http://192.168.2.20 target=_blank>192.168.2.20</a>', 'T1QM.3.0', '1.07.00', 'G2DL-B', 'Gooxi', '18:9b:a5:80:36:8a', '0000000000000000000000000']
+['192.168.2.58 ', '<a href=http://192.168.2.58 target=_blank>192.168.2.58</a>', 'N/a', '1.03.00', 'T1SMSW-E2', 'THTF', '18:9b:a5:80:6d:87', '0000000000000000000000000']
+['192.168.2.61 ', '<a href=http://192.168.2.61 target=_blank>192.168.2.61</a>', 'N/a', '1.03.00', 'T1SMSW-E2', 'THTF', '18:9b:a5:80:6d:7f', '0000000000000000000000000']
+['192.168.2.69 ', '<a href=http://192.168.2.69 target=_blank>192.168.2.69</a>', 'TTY0.9', '1.07.02', 'G2DCN-B', 'Gooxi', '00:24:ec:f1:34:12', 'liuxiong-node2']
+['192.168.2.77 ', '<a href=http://192.168.2.77 target=_blank>192.168.2.77</a>', 'TTY0.2', '1.01.00', 'T1DMG', 'TTYinfo', '18:9b:a5:80:6f:6e', 'windows_brunin_test']
+['192.168.2.80 ', '<a href=http://192.168.2.80 target=_blank>192.168.2.80</a>', 'TTY4.6', '1.07.00', '0000000000000000000000000', '0000000000000000', '18:9b:a5:80:02:24', '0000000000000000000000000']
+['192.168.2.99 ', '<a href=http://192.168.2.99 target=_blank>192.168.2.99</a>', 'TTY4.6', '1.07.00', '0000000000000000000000000', '0000000000000000', '18:9b:a5:80:02:24', '0000000000000000000000000']
+Error: Unable to establish IPMI v2 / RMCP+ session
+Error: Unable to establish IPMI v2 / RMCP+ session
+Error: Unable to establish IPMI v2 / RMCP+ session
+Unable to send RAW command (channel=0x0 netfn=0xe lun=0x0 cmd=0x53 rsp=0xc1): Invalid command
+Unable to send RAW command (channel=0x0 netfn=0xe lun=0x0 cmd=0x57 rsp=0xc1): Invalid command
+Unable to send RAW command (channel=0x0 netfn=0xe lun=0x0 cmd=0x59 rsp=0xc1): Invalid command
+Traceback (most recent call last):
+  File "config.py", line 13, in <module>
+    cpu = ba.a2b_hex(ver1).decode()+' x '+ver0[1]
+IndexError: string index out of range
+info.sh: line 9: 112634 Terminated              ( ipmitool -I lanplus -H 192.168.$1.$2 -U admin -P admin raw 0x00 0x01 > /dev/null )
+Unable to send RAW command (channel=0x0 netfn=0xe lun=0x0 cmd=0x53 rsp=0xc1): Invalid command
+Unable to send RAW command (channel=0x0 netfn=0xe lun=0x0 cmd=0x61 rsp=0xc1): Invalid command
+Traceback (most recent call last):
+  File "config.py", line 20, in <module>
+    ver4 = str(int(ver[10:12]+ver[8:10],16))
+ValueError: invalid literal for int() with base 16: ''
+Unable to send RAW command (channel=0x0 netfn=0xe lun=0x0 cmd=0x53 rsp=0xc1): Invalid command
+Unable to send RAW command (channel=0x0 netfn=0xe lun=0x0 cmd=0x57 rsp=0xc1): Invalid command
+Unable to send RAW command (channel=0x0 netfn=0xe lun=0x0 cmd=0x59 rsp=0xc1): Invalid command
+Traceback (most recent call last):
+  File "config.py", line 13, in <module>
+    cpu = ba.a2b_hex(ver1).decode()+' x '+ver0[1]
+IndexError: string index out of range
+info.sh: line 9: 117146 Terminated              ( ipmitool -I lanplus -H 192.168.$1.$2 -U admin -P admin raw 0x00 0x01 > /dev/null )
+info.sh: line 9: 117744 Terminated              ( ipmitool -I lanplus -H 192.168.$1.$2 -U admin -P admin raw 0x00 0x01 > /dev/null )
+Traceback (most recent call last):
+  File "config.py", line 20, in <module>
+    ver4 = str(int(ver[10:12]+ver[8:10],16))
+ValueError: invalid literal for int() with base 16: ''
+Unable to send RAW command (channel=0x0 netfn=0xe lun=0x0 cmd=0x53 rsp=0xc1): Invalid command
+Unable to send RAW command (channel=0x0 netfn=0xe lun=0x0 cmd=0x61 rsp=0xc1): Invalid command
+Traceback (most recent call last):
+  File "config.py", line 20, in <module>
+    ver4 = str(int(ver[10:12]+ver[8:10],16))
+ValueError: invalid literal for int() with base 16: ''
+info.sh: line 9: 123393 Terminated              ( ipmitool -I lanplus -H 192.168.$1.$2 -U admin -P admin raw 0x00 0x01 > /dev/null )
+info.sh: line 9: 124664 Terminated              ( ipmitool -I lanplus -H 192.168.$1.$2 -U admin -P admin raw 0x00 0x01 > /dev/null )
+Error: Unable to establish IPMI v2 / RMCP+ session
+Error: Unable to establish IPMI v2 / RMCP+ session
+info.sh: line 9: 124964 Terminated              ( ipmitool -I lanplus -H 192.168.$1.$2 -U admin -P admin raw 0x00 0x01 > /dev/null )
+Unable to send RAW command (channel=0x0 netfn=0xe lun=0x0 cmd=0x53 rsp=0xc1): Invalid command
+Unable to send RAW command (channel=0x0 netfn=0xe lun=0x0 cmd=0x57 rsp=0xc1): Invalid command
+Unable to send RAW command (channel=0x0 netfn=0xe lun=0x0 cmd=0x59 rsp=0xc1): Invalid command
+Traceback (most recent call last):
+  File "config.py", line 13, in <module>
+    cpu = ba.a2b_hex(ver1).decode()+' x '+ver0[1]
+IndexError: string index out of range
+info.sh: line 9: 125224 Terminated              ( ipmitool -I lanplus -H 192.168.$1.$2 -U admin -P admin raw 0x00 0x01 > /dev/null )
+Unable to send RAW command (channel=0x0 netfn=0xe lun=0x0 cmd=0x53 rsp=0xc1): Invalid command
+Unable to send RAW command (channel=0x0 netfn=0xe lun=0x0 cmd=0x57 rsp=0xc1): Invalid command
+Traceback (most recent call last):
+  File "config.py", line 13, in <module>
+    cpu = ba.a2b_hex(ver1).decode()+' x '+ver0[1]
+UnicodeDecodeError: 'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+Error: Unable to establish IPMI v2 / RMCP+ session
+info.sh: line 9: 125564 Terminated              ( ipmitool -I lanplus -H 192.168.$1.$2 -U admin -P admin raw 0x00 0x01 > /dev/null )
+info.sh: line 9: 125708 Terminated              ( ipmitool -I lanplus -H 192.168.$1.$2 -U admin -P admin raw 0x00 0x01 > /dev/null )
+Error: Unable to establish IPMI v2 / RMCP+ session
+info.sh: line 9: 126337 Terminated              ( ipmitool -I lanplus -H 192.168.$1.$2 -U admin -P admin raw 0x00 0x01 > /dev/null )
+Error: Unable to establish IPMI v2 / RMCP+ session
+info.sh: line 9: 126499 Terminated              ( ipmitool -I lanplus -H 192.168.$1.$2 -U admin -P admin raw 0x00 0x01 > /dev/null )
+info.sh: line 9: 131356 Terminated              ( ipmitool -I lanplus -H 192.168.$1.$2 -U admin -P admin raw 0x00 0x01 > /dev/null )
+Unable to send RAW command (channel=0x0 netfn=0xe lun=0x0 cmd=0x53 rsp=0xc1): Invalid command
+Unable to send RAW command (channel=0x0 netfn=0xe lun=0x0 cmd=0x57 rsp=0xc1): Invalid command
+Traceback (most recent call last):
+  File "config.py", line 13, in <module>
+    cpu = ba.a2b_hex(ver1).decode()+' x '+ver0[1]
+IndexError: string index out of range
+ Unknown FRU header version 0x00
+ Unknown FRU header version 0x00
+ Unknown FRU header version 0x00
+Unable to send RAW command (channel=0x0 netfn=0xe lun=0x0 cmd=0x53 rsp=0xc1): Invalid command
+Unable to send RAW command (channel=0x0 netfn=0xe lun=0x0 cmd=0x57 rsp=0xc1): Invalid command
+Unable to send RAW command (channel=0x0 netfn=0xe lun=0x0 cmd=0x59 rsp=0xc1): Invalid command
+Traceback (most recent call last):
+  File "config.py", line 13, in <module>
+    cpu = ba.a2b_hex(ver1).decode()+' x '+ver0[1]
+IndexError: string index out of range
+['192.168.0.1 ', '<a href=http://192.168.0.1 target=_blank>192.168.0.1</a>', 'T1DM4.6', '1.07.00', '0000000000000000000000000', '0000000000000000', '18:9b:a5:80:01:fe', '0000000000000000000000000', '<font  color=\'blue\'; size=\'1\'>Intel(R) Xeon(R) Gold 5120 CPU @ 2.20GHz x 0|  |Samsung 8GB 2133MHz x 0</font>   <a href=javascript:openNewWin("/func/detail.html?id=192.168.0.1")>详细配置</a>']
+['192.168.0.3 ', '<a href=http://192.168.0.3 target=_blank>192.168.0.3</a>', 'T1DM4.5', '1.07.00', '0000000000000000000000000', '0000000000000000', '10:24:ec:f0:09:28', '0000000000000000000000000', '<font  color=\'blue\'; size=\'1\'>Intel(R) Genuine processor x 1|  |Samsung 16GB 2133MHz x 1</font>   <a href=javascript:openNewWin("/func/detail.html?id=192.168.0.3")>详细配置</a>']
+['192.168.0.6 ', '<a href=http://192.168.0.6 target=_blank>192.168.0.6</a>', 'T1QM.1.8', '1.06.02', 'T1QM-E2', 'THTF', '18:9b:a5:80:33:ff', '0000000000000000000000000', '<font  color=\'blue\'; size=\'1\'>Intel(R) Xeon(R) Gold 6132 CPU @ 2.60GHz x 2|  |Samsung 16GB 2666MHz x 2</font>   <a href=javascript:openNewWin("/func/detail.html?id=192.168.0.6")>详细配置</a>']
+['192.168.0.13 ', '<a href=http://192.168.0.13 target=_blank>192.168.0.13</a>', 'TTY0.2', '1.02.00', '00000000000000000000', '00000000000000000000', '18:9b:a5:80:6f:6b', '00000000000000000000', '<font  color=\'blue\'; size=\'1\'>Intel(R) Xeon(R) Platinum 8168 CPU @ 2.70GHz x 2|  |Ramaxel 16GB 2400MHz x 24</font>   <a href=javascript:openNewWin("/func/detail.html?id=192.168.0.13")>详细配置</a>']
+['192.168.0.19 ', '<a href=http://192.168.0.19 target=_blank>192.168.0.19</a>', 'T1DM4.6', '1.03.02', 'G2DL-B', 'Gooxi', '18:9b:a5:80:0c:33', 'N/a', '<font  color=\'blue\'; size=\'1\'>Intel(R) Xeon(R) Silver 4114 CPU @ 2.20GHz x 2|  |Samsung 16GB 2400MHz x 24</font>   <a href=javascript:openNewWin("/func/detail.html?id=192.168.0.19")>详细配置</a>']
+['192.168.0.30 ', '<a href=http://192.168.0.30 target=_blank>192.168.0.30</a>', 'T1DM4.6', '1.07.00', '0000000000000000000000000', '0000000000000000', '18:9b:a5:80:1a:7b', '05675', '<font  color=\'blue\'; size=\'1\'>Intel(R) Xeon(R) Gold 6142 CPU @ 2.60GHz x 2|  |Hynix 16GB 2666MHz x 1</font>   <a href=javascript:openNewWin("/func/detail.html?id=192.168.0.30")>详细配置</a>']
+['192.168.0.32 ', '<a href=http://192.168.0.32 target=_blank>192.168.0.32</a>', 'T1DM4.4', '1.06.06', 'T1DM-E2', 'THTF', '18:9b:a5:80:2f:ce', 'N/a', '<font  color=\'blue\'; size=\'1\'>Intel(R) Xeon(R) Gold 5118 CPU @ 2.30GHz x 2|  |Samsung 16GB 2400MHz x 24</font>   <a href=javascript:openNewWin("/func/detail.html?id=192.168.0.32")>详细配置</a>']
+['192.168.0.33 ', '<a href=http://192.168.0.33 target=_blank>192.168.0.33</a>', 'FFT1QM.1.8', '1.06.01', 'T1QM-E2', 'THTF', '18:9b:a5:80:33:1a', '0000000000000000000000000', '<font  color=\'blue\'; size=\'1\'>Intel(R) Xeon(R) Gold 5118 CPU @ 2.30GHz x 4|  |Samsung 16GB 2400MHz x 4</font>   <a href=javascript:openNewWin("/func/detail.html?id=192.168.0.33")>详细配置</a>']
+['192.168.0.35 ', '<a href=http://192.168.0.35 target=_blank>192.168.0.35</a>', 'T1DM4.4', '1.06.06', 'T1DM-E2', 'THTF', '18:9b:a5:80:2f:ce', 'N/a', '<font  color=\'blue\'; size=\'1\'>Intel(R) Xeon(R) Gold 5118 CPU @ 2.30GHz x 2|  |Samsung 16GB 2400MHz x 24</font>   <a href=javascript:openNewWin("/func/detail.html?id=192.168.0.35")>详细配置</a>']
+['192.168.0.48 ', '<a href=http://192.168.0.48 target=_blank>192.168.0.48</a>', 'TTY0.2', '1.02.00', '00000000000000000000', '00000000000000000000', '', '00000000000000000000', '<font  color=\'blue\'; size=\'1\'>Intel(R) Xeon(R) Gold 5120T CPU @ 2.20GHz x 2|  |Hynix 16GB 2400MHz x 12</font>   <a href=javascript:openNewWin("/func/detail.html?id=192.168.0.48")>详细配置</a>']
+['192.168.0.60 ', '<a href=http://192.168.0.60 target=_blank>192.168.0.60</a>', 'T1DM4.4', '1.06.06', 'T1DM-E2', 'THTF', '18:9b:a5:80:30:46', 'N/a', '<font  color=\'blue\'; size=\'1\'>Intel(R) Xeon(R) Silver 4114 CPU @ 2.20GHz x 2|  |Samsung 16GB 2400MHz x 12</font>   <a href=javascript:openNewWin("/func/detail.html?id=192.168.0.60")>详细配置</a>']
+['192.168.0.63 ', '<a href=http://192.168.0.63 target=_blank>192.168.0.63</a>', 'T1DM4.6', '1.03.02', 'T1DM-E2', 'THTF', '18:9b:a5:80:18:f7', '0000000000000000000000000', '<font  color=\'blue\'; size=\'1\'>Intel(R) Xeon(R) Silver 4110 CPU @ 2.10GHz x 2|  |Micron 16GB 2400MHz x 8</font>   <a href=javascript:openNewWin("/func/detail.html?id=192.168.0.63")>详细配置</a>']
+['192.168.0.75 ', '<a href=http://192.168.0.75 target=_blank>192.168.0.75</a>', 'G2DL-B4.6', '1.00.00', 'G2DL-B', 'Gooxi', '18:9b:a5:80:24:0e', '0000000000000000000000000', '<font  color=\'blue\'; size=\'1\'>Intel(R) Xeon(R) Gold 5117M CPU @ 2.00GHz x 0|  |Samsung 16GB 2400MHz x 0</font>   <a href=javascript:openNewWin("/func/detail.html?id=192.168.0.75")>详细配置</a>']
+['192.168.0.76 ', '<a href=http://192.168.0.76 target=_blank>192.168.0.76</a>', 'T1DM4.6', '1.07.00', '0000000000000000000000000', '0000000000000000', '18:9b:a5:80:01:fe', '0000000000000000000000000', '<font  color=\'blue\'; size=\'1\'>Intel(R) Xeon(R) Gold 5120 CPU @ 2.20GHz x 0|  |Samsung 8GB 2133MHz x 0</font>   <a href=javascript:openNewWin("/func/detail.html?id=192.168.0.76")>详细配置</a>']
+['192.168.0.83 ', '<a href=http://192.168.0.83 target=_blank>192.168.0.83</a>', 'N/a', '4.02.00', 'YZMB-00882-102', 'Inspur', '6c:92:bf:8c:6d:e3', 'N/a', '<a href=javascript:openNewWin("/func/detail.html?id=192.168.$1.$2")>详细配置</a>']
+['192.168.0.89 ', '<a href=http://192.168.0.89 target=_blank>192.168.0.89</a>', 'TTY0.2', '1.02.00', '00000000000000000000', '00000000000000000000', '18:9b:a5:80:6f:6a', '00000000000000000000', '<font  color=\'blue\'; size=\'1\'>Intel(R) Xeon(R) Platinum 8170 CPU @ 2.10GHz x 2|  |Samsung 32GB 2666MHz x 12</font>   <a href=javascript:openNewWin("/func/detail.html?id=192.168.0.89")>详细配置</a>']
+['192.168.0.104 ', '<a href=http://192.168.0.104 target=_blank>192.168.0.104</a>', 'TTY0.2', '1.07.02', 'G2DCN-B', 'Gooxi', '00:24:ec:f1:3f:56', 'liuxiong-node3', '<font  color=\'blue\'; size=\'1\'>Intel(R) Xeon(R) Gold 6142F CPU @ 2.60GHz x 1|  |Samsung 16GB 2400MHz x 1</font>   <a href=javascript:openNewWin("/func/detail.html?id=192.168.0.104")>详细配置</a>']
+['192.168.0.106 ', '<a href=http://192.168.0.106 target=_blank>192.168.0.106</a>', 'N/a', '1.03.00', 'T1SMSW-E2', 'THTF', '18:9b:a5:80:6d:87', '0000000000000000000000000', '<a href=javascript:openNewWin("/func/detail.html?id=192.168.$1.$2")>详细配置</a>']
+['192.168.0.107 ', '<a href=http://192.168.0.107 target=_blank>192.168.0.107</a>', 'T1QM.1.8', '1.06.01', 'T1QM-E2', 'THTF', '18:9b:a5:80:36:9a', '4SS', '<font  color=\'blue\'; size=\'1\'>Intel(R) Xeon(R) Gold 6148 CPU @ 2.40GHz x 4|  |Samsung 32GB 2666MHz x 30</font>   <a href=javascript:openNewWin("/func/detail.html?id=192.168.0.107")>详细配置</a>']
+['192.168.0.116 ', '<a href=http://192.168.0.116 target=_blank>192.168.0.116</a>', 'TTY0.1', '1.02.00', 'N/a', '00000000000000000000', '1e:23:45:3d:11:34', '00000000000000000000', '<font  color=\'blue\'; size=\'1\'>Intel(R) Xeon(R) Silver 4112 CPU @ 2.60GHz x 1|  |Hynix 8GB 2400MHz x 1</font>   <a href=javascript:openNewWin("/func/detail.html?id=192.168.0.116")>详细配置</a>']
+['192.168.0.120 ', '<a href=http://192.168.0.120 target=_blank>192.168.0.120</a>', 'T1DM4.4', '1.06.06', 'N/a', 'THTF', '18:9b:a5:80:30:46', '0000000000000000000000000', '<font  color=\'blue\'; size=\'1\'>Intel(R) Xeon(R) Silver 4114 CPU @ 2.20GHz x 2|  |Samsung 16GB 2400MHz x 12</font>   <a href=javascript:openNewWin("/func/detail.html?id=192.168.0.120")>详细配置</a>']
+['192.168.0.121 ', '<a href=http://192.168.0.121 target=_blank>192.168.0.121</a>', 'T1DM4.6', '1.03.02', 'T1DM-E2', 'THTF', '18:9b:a5:80:1a:77', 'N/a', '<font  color=\'blue\'; size=\'1\'>Intel(R) Xeon(R) Gold 5120T CPU @ 2.20GHz x 2|  |Hynix 32GB 2400MHz x 4</font>   <a href=javascript:openNewWin("/func/detail.html?id=192.168.0.121")>详细配置</a>']
+['192.168.0.126 ', '<a href=http://192.168.0.126 target=_blank>192.168.0.126</a>', 'DbgTTY0.3', '1.01.00', 'T1DMG', 'TTYinfo', '00:24:ec:00:44:fd', 'N/a', '<font  color=\'blue\'; size=\'1\'>Intel(R) Xeon(R) Gold 6132 CPU @ 2.60GHz x 0|  |Hynix 8GB 2666MHz x 0</font>   <a href=javascript:openNewWin("/func/detail.html?id=192.168.0.126")>详细配置</a>']Unable to send RAW command (channel=0x0 netfn=0xe lun=0x0 cmd=0x53 rsp=0xc1): Invalid command
+Unable to send RAW command (channel=0x0 netfn=0xe lun=0x0 cmd=0x61 rsp=0xc1): Invalid command
+Traceback (most recent call last):
+  File "config.py", line 20, in <module>
+    ver4 = str(int(ver[10:12]+ver[8:10],16))
+ValueError: invalid literal for int() with base 16: ''
+Unable to send RAW command (channel=0x0 netfn=0xe lun=0x0 cmd=0x53 rsp=0xc1): Invalid command
+Unable to send RAW command (channel=0x0 netfn=0xe lun=0x0 cmd=0x61 rsp=0xc1): Invalid command
+Traceback (most recent call last):
+  File "config.py", line 20, in <module>
+    ver4 = str(int(ver[10:12]+ver[8:10],16))
+ValueError: invalid literal for int() with base 16: ''
+Error: Unable to establish IPMI v2 / RMCP+ session
+info.sh: line 9: 148230 Terminated              ( ipmitool -I lanplus -H 192.168.$1.$2 -U admin -P admin raw 0x00 0x01 > /dev/null )
+
+['192.168.0.132 ', '<a href=http://192.168.0.132 target=_blank>192.168.0.132</a>', 'N/a', '4.02.00', 'YZMB-00882-102', 'Inspur', '6c:92:bf:8c:6d:e3', 'N/a', '<a href=javascript:openNewWin("/func/detail.html?id=192.168.$1.$2")>详细配置</a>']
+['192.168.0.135 ', '<a href=http://192.168.0.135 target=_blank>192.168.0.135</a>', 'T1DM5.0', '1.06.05', 'T1DM-E2', 'THTF', '', '0000000000000000000000000', '<font  color=\'blue\'; size=\'1\'>Intel(R) Xeon(R) Silver 4116 CPU @ 2.10GHz x 2|  |Kingston 8GB 2133MHz x 2</font>   <a href=javascript:openNewWin("/func/detail.html?id=192.168.0.135")>详细配置</a>']
+['192.168.0.137 ', '<a href=http://192.168.0.137 target=_blank>192.168.0.137</a>', 'T1DM4.5', '1.07.00', '0000000000000000000000000', '0000000000000000', '10:24:ec:f0:09:28', '0000000000000000000000000', '<font  color=\'blue\'; size=\'1\'>Intel(R) Genuine processor x 1|  |Samsung 16GB 2133MHz x 1</font>   <a href=javascript:openNewWin("/func/detail.html?id=192.168.0.137")>详细配置</a>']
+['192.168.0.140 ', '<a href=http://192.168.0.140 target=_blank>192.168.0.140</a>', 'TTY0.2', '1.02.00', '00000000000000000000', '00000000000000000000', '18:9b:a5:80:6f:6c', '1', '<font  color=\'blue\'; size=\'1\'>Intel(R) Xeon(R) Gold 6132 CPU @ 2.60GHz x 2|  |Hynix 16GB 2666MHz x 24</font>   <a href=javascript:openNewWin("/func/detail.html?id=192.168.0.140")>详细配置</a>']
+['192.168.0.156 ', '<a href=http://192.168.0.156 target=_blank>192.168.0.156</a>', 'T1DM4.6', '1.07.00', 'G2DL-B', 'Gooxi', '18:9b:a5:80:33:0b', '0000000000000000000000000', '<font  color=\'blue\'; size=\'1\'>Intel(R) Xeon(R) Gold 5118 CPU @ 2.30GHz x 2|  |Samsung 32GB 2400MHz x 12</font>   <a href=javascript:openNewWin("/func/detail.html?id=192.168.0.156")>详细配置</a>']
+['192.168.0.161 ', '<a href=http://192.168.0.161 target=_blank>192.168.0.161</a>', 'TTY0.2', '1.02.00', '00000000000000000000', '00000000000000000000', '18:9b:a5:80:6f:6f', '00000000000000000000', '<a href=javascript:openNewWin("/func/detail.html?id=192.168.$1.$2")>详细配置</a>']
+['192.168.0.163 ', '<a href=http://192.168.0.163 target=_blank>192.168.0.163</a>', 'TTY0.2', '1.02.00', '00000000000000000000', '00000000000000000000', '18:9b:a5:80:6f:6d', '00000000000000000000', '<font  color=\'blue\'; size=\'1\'>Intel(R) Xeon(R) Gold 6146 CPU @ 3.20GHz x 2|  |Ramaxel 16GB 2400MHz x 24</font>   <a href=javascript:openNewWin("/func/detail.html?id=192.168.0.163")>详细配置</a>']
+['192.168.0.172 ', '<a href=http://192.168.0.172 target=_blank>192.168.0.172</a>', 'TTY4.6', '1.03.02', 'T1DM-E2', 'THTF', '18:9b:a5:80:02:08', 'N/a', '<font  color=\'blue\'; size=\'1\'>Intel(R) Xeon(R) Silver 4114 CPU @ 2.20GHz x 2|  |Hynix 32GB 2400MHz x 2</font>   <a href=javascript:openNewWin("/func/detail.html?id=192.168.0.172")>详细配置</a>']
+['192.168.0.180 ', '<a href=http://192.168.0.180 target=_blank>192.168.0.180</a>', 'T1DM4.6', '1.07.00', '0000000000000000000000000', 'N/a', '18:9b:a5:80:02:02', '0000000000000000000000000', '<font  color=\'blue\'; size=\'1\'>Intel(R) Xeon(R) Silver 4110 CPU @ 2.10GHz x 2|  |Hynix 8GB 2400MHz x 2</font>   <a href=javascript:openNewWin("/func/detail.html?id=192.168.0.180")>详细配置</a>']
+['192.168.0.187 ', '<a href=http://192.168.0.187 target=_blank>192.168.0.187</a>', 'T1DM4.6', '1.07.00', '0000000000000000000000000', '0000000000000000', '18:9b:a5:80:02:02', 'N/a', '<font  color=\'blue\'; size=\'1\'>Intel(R) Xeon(R) Silver 4110 CPU @ 2.10GHz x 2|  |Hynix 8GB 2400MHz x 2</font>   <a href=javascript:openNewWin("/func/detail.html?id=192.168.0.187")>详细配置</a>']
+['192.168.0.194 ', '<a href=http://192.168.0.194 target=_blank>192.168.0.194</a>', 'G2DCN1.3', '1.07.02', 'G2DCN-B', 'Gooxi', '00:24:ec:f1:34:1e', '00000000000000000000', '<font  color=\'blue\'; size=\'1\'>Intel(R) Genuine processor x 0|  |Samsung 16GB 2133MHz x 0</font>   <a href=javascript:openNewWin("/func/detail.html?id=192.168.0.194")>详细配置</a>']
+['192.168.0.198 ', '<a href=http://192.168.0.198 target=_blank>192.168.0.198</a>', 'TTY0.2', '1.02.00', 'T1DMG', 'TTYinfo', '', '00000000000000000000', '<font  color=\'blue\'; size=\'1\'>Intel(R) Xeon(R) Platinum 8160M CPU @ 2.10GHz x 2|  |Samsung 32GB 2666MHz x 12</font>   <a href=javascript:openNewWin("/func/detail.html?id=192.168.0.198")>详细配置</a>']
+['192.168.0.210 ', '<a href=http://192.168.0.210 target=_blank>192.168.0.210</a>', 'T1DM4.6', '1.03.02', 'T1DM-E2', 'THTF', '18:9b:a5:80:1a:8b', '123456', '<font  color=\'blue\'; size=\'1\'>Intel(R) Xeon(R) Silver 4110 CPU @ 2.10GHz x 2|  |Samsung 16GB 2400MHz x 2</font>   <a href=javascript:openNewWin("/func/detail.html?id=192.168.0.210")>详细配置</a>']
+['192.168.0.213 ', '<a href=http://192.168.0.213 target=_blank>192.168.0.213</a>', 'T1DM4.6', '1.03.02', 'T1DM-E2', 'THTF', '18:9b:a5:80:1a:7f', '123456789', '<font  color=\'blue\'; size=\'1\'>Intel(R) Xeon(R) Silver 4110 CPU @ 2.10GHz x 2|  |Hynix 16GB 2400MHz x 8</font>   <a href=javascript:openNewWin("/func/detail.html?id=192.168.0.213")>详细配置</a>']
+['192.168.0.225 ', '<a href=http://192.168.0.225 target=_blank>192.168.0.225</a>', 'T1DM4.6', '1.07.00', '0000000000000000000000000', '0000000000000000', '18:9b:a5:80:33:8c', '0000000000000000000000000', '<font  color=\'blue\'; size=\'1\'>Intel(R) Xeon(R) Gold 5118 CPU @ 2.30GHz x 2|  |Micron 16GB 2133MHz x 10</font>   <a href=javascript:openNewWin("/func/detail.html?id=192.168.0.225")>详细配置</a>']
+['192.168.0.227 ', '<a href=http://192.168.0.227 target=_blank>192.168.0.227</a>', 'N/a', '1.03.00', 'T1SMSW-E2', 'THTF', '', '0000000000000000000000000', '<a href=javascript:openNewWin("/func/detail.html?id=192.168.$1.$2")>详细配置</a>']
+['192.168.0.236 ', '<a href=http://192.168.0.236 target=_blank>192.168.0.236</a>', 'T1DM4.4', '1.06.06', 'T1DM-E2', 'THTF', '18:9b:a5:80:33:03', 'N/a', '<font  color=\'blue\'; size=\'1\'>Intel(R) Xeon(R) Gold 5118 CPU @ 2.30GHz x 2|  |Samsung 16GB 2400MHz x 12</font>   <a href=javascript:openNewWin("/func/detail.html?id=192.168.0.236")>详细配置</a>']
+['192.168.0.239 ', '<a href=http://192.168.0.239 target=_blank>192.168.0.239</a>', 'T1DM4.4', '1.06.06', 'T1DM-E2', 'THTF', '18:9b:a5:80:33:03', 'N/a', '<font  color=\'blue\'; size=\'1\'>Intel(R) Xeon(R) Gold 5118 CPU @ 2.30GHz x 2|  |Samsung 16GB 2400MHz x 12</font>   <a href=javascript:openNewWin("/func/detail.html?id=192.168.0.239")>详细配置</a>']
+['192.168.0.241 ', '<a href=http://192.168.0.241 target=_blank>192.168.0.241</a>', 'T1DM4.6', '1.03.02', 'T1DM-E2', 'THTF', '18:9b:a5:80:02:1b', 'N/a', '<font  color=\'blue\'; size=\'1\'>Intel(R) Xeon(R) Silver 4110 CPU @ 2.10GHz x 2|  |Hynix 32GB 2400MHz x 2</font>   <a href=javascript:openNewWin("/func/detail.html?id=192.168.0.241")>详细配置</a>']
+['192.168.0.242 ', '<a href=http://192.168.0.242 target=_blank>192.168.0.242</a>', 'T1DM4.6', '1.03.02', 'T1DM-E2', 'THTF', '18:9b:a5:80:02:1b', 'N/a', '<font  color=\'blue\'; size=\'1\'>Intel(R) Xeon(R) Silver 4110 CPU @ 2.10GHz x 2|  |Hynix 32GB 2400MHz x 2</font>   <a href=javascript:openNewWin("/func/detail.html?id=192.168.0.242")>详细配置</a>']
+['192.168.1.9 ', '<a href=http://192.168.1.9 target=_blank>192.168.1.9</a>', 'N/a', '1.06.03', 'N/a', 'N/a', '00:24:ec:f0:04:24', 'N/a', '<a href=javascript:openNewWin("/func/detail.html?id=192.168.$1.$2")>详细配置</a>']
+['192.168.1.15 ', '<a href=http://192.168.1.15 target=_blank>192.168.1.15</a>', 'N/a', '1.06.09', 'N/a', 'N/a', '00:24:ec:f0:01:20', 'N/a', '<a href=javascript:openNewWin("/func/detail.html?id=192.168.$1.$2")>详细配置</a>']
+['192.168.1.161 ', '<a href=http://192.168.1.161 target=_blank>192.168.1.161</a>', 'N/a', '1.02.00', 'G3SCN', 'GooXi', '00:24:ec:f1:19:43', 'N/a', '<a href=javascript:openNewWin("/func/detail.html?id=192.168.$1.$2")>详细配置</a>']
+['192.168.1.184 ', '<a href=http://192.168.1.184 target=_blank>192.168.1.184</a>', 'N/a', '11.08.c0', 'AMI SPX', 'N/a', '18:9b:a5:80:06:52', 'N/a', '<a href=javascript:openNewWin("/func/detail.html?id=192.168.$1.$2")>详细配置</a>']
+['192.168.1.205 ', '<a href=http://192.168.1.205 target=_blank>192.168.1.205</a>', 'T1DM5.0', '1.06.05', 'T1DM-E2', 'THTF', '18:9b:a5:80:02:06', '0000000000000000000000000', '<font  color=\'blue\'; size=\'1\'>Intel(R) Xeon(R) Silver 4116 CPU @ 2.10GHz x 2|  |Kingston 8GB 2133MHz x 2</font>   <a href=javascript:openNewWin("/func/detail.html?id=192.168.1.205")>详细配置</a>']
+['192.168.2.14 ', '<a href=http://192.168.2.14 target=_blank>192.168.2.14</a>', 'T1DM4.6', '1.07.00', '0000000000000000000000000', '0000000000000000', '18:9b:a5:80:33:8c', '0000000000000000000000000', '<font  color=\'blue\'; size=\'1\'>Intel(R) Xeon(R) Gold 5118 CPU @ 2.30GHz x 2|  |Micron 16GB 2133MHz x 10</font>   <a href=javascript:openNewWin("/func/detail.html?id=192.168.2.14")>详细配置</a>']
+['192.168.2.16 ', '<a href=http://192.168.2.16 target=_blank>192.168.2.16</a>', 'T1DM4.6', '1.07.00', '0000000000000000000000000', '0000000000000000', '18:9b:a5:80:1a:7b', '05675', '<font  color=\'blue\'; size=\'1\'>Intel(R) Xeon(R) Gold 6142 CPU @ 2.60GHz x 2|  |Hynix 16GB 2666MHz x 1</font>   <a href=javascript:openNewWin("/func/detail.html?id=192.168.2.16")>详细配置</a>']
+['192.168.2.20 ', '<a href=http://192.168.2.20 target=_blank>192.168.2.20</a>', 'T1QM.3.0', '1.07.00', 'G2DL-B', 'Gooxi', '18:9b:a5:80:36:8a', '0000000000000000000000000', '<font  color=\'blue\'; size=\'1\'>Intel(R) Xeon(R) Platinum 8280L CPU @ 2.60GHz x 0|  |Micron 16GB 2400MHz x 0</font>   <a href=javascript:openNewWin("/func/detail.html?id=192.168.2.20")>详细配置</a>']
+['192.168.2.58 ', '<a href=http://192.168.2.58 target=_blank>192.168.2.58</a>', 'N/a', '1.03.00', 'T1SMSW-E2', 'THTF', '18:9b:a5:80:6d:87', 'N/a', '<a href=javascript:openNewWin("/func/detail.html?id=192.168.$1.$2")>详细配置</a>']
+['192.168.2.61 ', '<a href=http://192.168.2.61 target=_blank>192.168.2.61</a>', 'N/a', '1.03.00', 'T1SMSW-E2', 'THTF', '', '0000000000000000000000000', '<a href=javascript:openNewWin("/func/detail.html?id=192.168.$1.$2")>详细配置</a>']
+['192.168.2.69 ', '<a href=http://192.168.2.69 target=_blank>192.168.2.69</a>', 'TTY0.9', '1.07.02', 'G2DCN-B', 'Gooxi', '00:24:ec:f1:34:12', 'liuxiong-node2', '<font  color=\'blue\'; size=\'1\'>Intel(R) Xeon(R) Platinum 8176F CPU @ 2.10GHz x 1|  |Samsung 16GB 2400MHz x 1</font>   <a href=javascript:openNewWin("/func/detail.html?id=192.168.2.69")>详细配置</a>']
+['192.168.2.77 ', '<a href=http://192.168.2.77 target=_blank>192.168.2.77</a>', 'TTY0.2', '1.02.00', '00000000000000000000', '00000000000000000000', '18:9b:a5:80:6f:6e', '00000000000000000000', '<font  color=\'blue\'; size=\'1\'>Intel(R) Xeon(R) Platinum 8180M CPU @ 2.50GHz x 2|  |UniIC 16GB 2400MHz x 24</font>   <a href=javascript:openNewWin("/func/detail.html?id=192.168.2.77")>详细配置</a>']
+['192.168.2.80 ', '<a href=http://192.168.2.80 target=_blank>192.168.2.80</a>', 'TTY4.6', '1.07.00', '0000000000000000000000000', '0000000000000000', '18:9b:a5:80:02:24', '0000000000000000000000000', '<font  color=\'blue\'; size=\'1\'>Intel(R) Xeon(R) Platinum 8176F CPU @ 2.10GHz x 1|  |Hynix 32GB 2400MHz x 1</font>   <a href=javascript:openNewWin("/func/detail.html?id=192.168.2.80")>详细配置</a>']
+['192.168.2.99 ', '<a href=http://192.168.2.99 target=_blank>192.168.2.99</a>', 'TTY4.6', '1.07.00', '0000000000000000000000000', '0000000000000000', '18:9b:a5:80:02:24', '0000000000000000000000000', '<font  color=\'blue\'; size=\'1\'>Intel(R) Xeon(R) Platinum 8176F CPU @ 2.10GHz x 1|  |Hynix 32GB 2400MHz x 1</font>   <a href=javascript:openNewWin("/func/detail.html?id=192.168.2.99")>详细配置</a>']

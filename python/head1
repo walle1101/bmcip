@@ -1,0 +1,33 @@
+<meta http-equiv="Content-Type" content="text/css; charset=utf-8">
+<head>
+<link rel="shortcut icon" href="favicon.ico" type="image/x-icon" />
+</head>
+<style type="text/css">
+.dataframe{font-size: 14px;}
+</style>
+
+
+<title>Hello Walle</title>
+<script type="text/javascript">
+function openNewWin(url, title)
+{
+	        window.open(url, title, "height=500, width=400,screenX=1250,screenY=350,location=no,status=no,scrollvars=no");
+}
+</script>
+
+<pre>
+
+
+		<a href=../index.html style="font-size:20px" >HOME</a>          <a href=..//product/sizixing.html style="font-size:20px" >双四子星</a>     <a href=..//product/L.html style="font-size:20px" >L型服务器</a>
+				<a href=../product/guochan.html style="font-size:20px" >国产服务器</a>     <a href=../product/silu.html style="font-size:20px" >四路服务器</a>          <a href=../product/gpu.html style="font-size:30px" >GPU服务器</a> 
+ __________________________________________________________________________________________________________________________
+ <form action="/cgi-bin/example.sh" method="get" TARGET="second">
+  192.168. <input type="text" name="IP"></input>                                                 <a href=func/fan.html style="font-size:24px" >风扇调速</a>   <a href=func/fru.html style="font-size:24px" >FRU信息烧录</a>    <a href=func/config.html style="font-size:24px" >硬件配置信息</a>
+
+		  <input type="submit" name="subbtn" value="sel elist">    <input type="submit" name="subbtn" value="sensor list">    <input type="submit" name="subbtn" value="sel clear">
+
+		  <input type="submit" name="subbtn" value="power on">    <input type="submit" name="subbtn" value="power off">    <input type="submit" name="subbtn" value="power reset">    <input type="submit" name="subbtn" value="power cycle">                                 <input type="submit" name="subbtn" value="mc reset cold"><a style=" color:#666; font-size:6px;">BMC冷重启</a>
+
+		  <input type="submit" name="subbtn" value="chassis bootdev bios">     <input type="submit" name="subbtn" value="chassis bootdev pxe">    <input type="submit" name="subbtn" value="chassis bootdev cdrom"> <a style=" color:#666; font-size:6px;"> 点击后需要在一分钟之内reset,uefi下无法通过命令从pxe启动</a>
+</from>
+</pre>
