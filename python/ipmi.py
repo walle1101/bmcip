@@ -6,8 +6,8 @@ pd.set_option('max_colwidth', 200)
 pd.set_option('display.max_rows', None)
 np.set_printoptions(threshold='nan')
 arr = np.array(['ip','link','bios','bmc','borad','manufature','mac','asset tag','config'])
-for i in [0,1,2]:
-	for j in range(1,249):
+for i in [0,1]:
+	for j in range(1,254):
 			l1 = os.popen('sh info.sh '+str(i)+' '+str(j)).read().strip()
 			if str(l1) == 'pass':
 				pass

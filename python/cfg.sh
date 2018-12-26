@@ -10,7 +10,7 @@ do
 echo "${line}"|grep href     
 if  [[ $? -eq 0 ]]
 then
-a=`echo "${line}"|awk '{print $3}'|sed 's/.*192/192/'`
+a=`echo "${line}"|awk '{print $3}'|sed 's/.*172/172/'`
 (python config.py $a)||(echo " ")
 echo -e "\n"
 else

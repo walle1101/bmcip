@@ -22,7 +22,7 @@ function openNewWin(url, title)
 				<a href=/product/guochan.html style="font-size:20px" >国产服务器</a>     <a href=/product/silu.html style="font-size:20px" >四路服务器</a>          <a href=/product/gpu.html style="font-size:30px" >GPU服务器</a> 
  __________________________________________________________________________________________________________________________
  <form action="/cgi-bin/example.sh" method="get" TARGET="second">
-  192.168. <input type="text" name="IP"></input>                                                 <a href=func/fan.html style="font-size:24px" >风扇调速</a>   <a href=func/fru.html style="font-size:24px" >FRU信息烧录</a>    <a href=func/config.html style="font-size:24px" >硬件配置信息</a>
+  172.17. <input type="text" name="IP"></input>                                                 <a href=func/fan.html style="font-size:24px" >风扇调速</a>   <a href=func/fru.html style="font-size:24px" >FRU信息烧录</a>    <a href=func/config.html style="font-size:24px" >硬件配置信息</a>
 
 		  <input type="submit" name="subbtn" value="sel elist">    <input type="submit" name="subbtn" value="sensor list">    <input type="submit" name="subbtn" value="sel clear">
 
